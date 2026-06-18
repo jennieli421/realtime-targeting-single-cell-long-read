@@ -22,8 +22,8 @@
 | Software | Version | Purpose |
 |----------|---------|---------|
 | bedtools | v2.26.0 | Exon intersection |
-| Python | 3.x | Data processing |
-| R | 4.x | Plotting and statistics |
+| Python | 3.8.0 | Data processing |
+| R | 4.3.1 | Plotting and statistics |
 | Conda envs | `isoquant`, `scisorATAC`, `readfish` | Environment management |
 
 **Custom scripts used throughout:**
